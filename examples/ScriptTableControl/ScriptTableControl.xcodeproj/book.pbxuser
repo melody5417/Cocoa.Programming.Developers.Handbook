@@ -1,0 +1,400 @@
+// !$*UTF8*$!
+{
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = FDE49AFD0F4C6854002ADE15 /* ScriptTableControl */;
+		activeTarget = 8D1107260486CEB800E47090 /* ScriptTableControl */;
+		addToTargets = (
+			8D1107260486CEB800E47090 /* ScriptTableControl */,
+		);
+		breakpoints = (
+		);
+		codeSenseManager = FDE49B0D0F4C6864002ADE15 /* Code sense */;
+		executables = (
+			FDE49AFD0F4C6854002ADE15 /* ScriptTableControl */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					341,
+					20,
+					48.16259765625,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 256665684;
+			PBXWorkspaceStateSaveDate = 256665684;
+		};
+		perUserProjectItems = {
+			FDE49B210F4C6BF0002ADE15 /* PBXTextBookmark */ = FDE49B210F4C6BF0002ADE15 /* PBXTextBookmark */;
+			FDE49B220F4C6BF0002ADE15 /* PBXTextBookmark */ = FDE49B220F4C6BF0002ADE15 /* PBXTextBookmark */;
+			FDE49B230F4C6BF0002ADE15 /* PBXTextBookmark */ = FDE49B230F4C6BF0002ADE15 /* PBXTextBookmark */;
+			FDE49B240F4C6BF0002ADE15 /* PBXTextBookmark */ = FDE49B240F4C6BF0002ADE15 /* PBXTextBookmark */;
+			FDE49B250F4C6BF0002ADE15 /* PBXTextBookmark */ = FDE49B250F4C6BF0002ADE15 /* PBXTextBookmark */;
+			FDE49B260F4C6BF0002ADE15 /* PBXTextBookmark */ = FDE49B260F4C6BF0002ADE15 /* PBXTextBookmark */;
+			FDE49B270F4C6BF0002ADE15 /* PBXTextBookmark */ = FDE49B270F4C6BF0002ADE15 /* PBXTextBookmark */;
+			FDE49B280F4C6BF0002ADE15 /* PBXTextBookmark */ = FDE49B280F4C6BF0002ADE15 /* PBXTextBookmark */;
+			FDE49B290F4C6BF0002ADE15 /* PBXTextBookmark */ = FDE49B290F4C6BF0002ADE15 /* PBXTextBookmark */;
+			FDE49B2A0F4C6BF0002ADE15 /* PBXTextBookmark */ = FDE49B2A0F4C6BF0002ADE15 /* PBXTextBookmark */;
+			FDE49B2B0F4C6BF0002ADE15 /* PBXTextBookmark */ = FDE49B2B0F4C6BF0002ADE15 /* PBXTextBookmark */;
+			FDE49B2C0F4C6BF0002ADE15 /* PBXTextBookmark */ = FDE49B2C0F4C6BF0002ADE15 /* PBXTextBookmark */;
+			FDE49B2D0F4C6BF0002ADE15 /* PBXTextBookmark */ = FDE49B2D0F4C6BF0002ADE15 /* PBXTextBookmark */;
+			FDE49B2E0F4C6BF0002ADE15 /* PBXTextBookmark */ = FDE49B2E0F4C6BF0002ADE15 /* PBXTextBookmark */;
+			FDE49B2F0F4C6BF0002ADE15 /* PBXTextBookmark */ = FDE49B2F0F4C6BF0002ADE15 /* PBXTextBookmark */;
+			FDE49B300F4C6BF0002ADE15 /* PBXTextBookmark */ = FDE49B300F4C6BF0002ADE15 /* PBXTextBookmark */;
+			FDE49B310F4C6BF0002ADE15 /* PBXTextBookmark */ = FDE49B310F4C6BF0002ADE15 /* PBXTextBookmark */;
+			FDE49B320F4C6BF0002ADE15 /* PBXTextBookmark */ = FDE49B320F4C6BF0002ADE15 /* PBXTextBookmark */;
+			FDE49B330F4C6BF0002ADE15 /* PBXTextBookmark */ = FDE49B330F4C6BF0002ADE15 /* PBXTextBookmark */;
+			FDE49B410F4C6C30002ADE15 /* PBXTextBookmark */ = FDE49B410F4C6C30002ADE15 /* PBXTextBookmark */;
+			FDE49B450F4C6C4A002ADE15 /* PBXTextBookmark */ = FDE49B450F4C6C4A002ADE15 /* PBXTextBookmark */;
+			FDE49B490F4C6C66002ADE15 /* PBXTextBookmark */ = FDE49B490F4C6C66002ADE15 /* PBXTextBookmark */;
+			FDE49B4A0F4C6C66002ADE15 /* PBXTextBookmark */ = FDE49B4A0F4C6C66002ADE15 /* PBXTextBookmark */;
+			FDE49B4B0F4C6C66002ADE15 /* PBXTextBookmark */ = FDE49B4B0F4C6C66002ADE15 /* PBXTextBookmark */;
+			FDE49B4C0F4C6C66002ADE15 /* PBXTextBookmark */ = FDE49B4C0F4C6C66002ADE15 /* PBXTextBookmark */;
+			FDE49B4D0F4C6C66002ADE15 /* PBXTextBookmark */ = FDE49B4D0F4C6C66002ADE15 /* PBXTextBookmark */;
+		};
+		sourceControlManager = FDE49B0C0F4C6864002ADE15 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	8D1107260486CEB800E47090 /* ScriptTableControl */ = {
+		activeExec = 0;
+		executables = (
+			FDE49AFD0F4C6854002ADE15 /* ScriptTableControl */,
+		);
+	};
+	FDE49AFD0F4C6854002ADE15 /* ScriptTableControl */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 1;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = ScriptTableControl;
+		savedGlobals = {
+		};
+		sourceDirectories = (
+		);
+		variableFormatDictionary = {
+		};
+	};
+	FDE49B0C0F4C6864002ADE15 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+		};
+	};
+	FDE49B0D0F4C6864002ADE15 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	FDE49B0E0F4C6930002ADE15 /* ScriptTableController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {519, 230}}";
+			sepNavSelRange = "{180, 10}";
+			sepNavVisRange = "{0, 305}";
+		};
+	};
+	FDE49B0F0F4C6930002ADE15 /* ScriptTableController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {519, 420}}";
+			sepNavSelRange = "{585, 0}";
+			sepNavVisRange = "{304, 362}";
+		};
+	};
+	FDE49B110F4C696E002ADE15 /* ScriptTable.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {720, 1736}}";
+			sepNavSelRange = "{4100, 14}";
+			sepNavVisRange = "{4031, 760}";
+		};
+	};
+	FDE49B210F4C6BF0002ADE15 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = FDE49B110F4C696E002ADE15 /* ScriptTable.h */;
+		name = "ScriptTable.h: 104";
+		rLen = 14;
+		rLoc = 4100;
+		rType = 0;
+		vrLen = 760;
+		vrLoc = 4031;
+	};
+	FDE49B220F4C6BF0002ADE15 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = FDE49B0E0F4C6930002ADE15 /* ScriptTableController.h */;
+		name = "ScriptTableController.h: 9";
+		rLen = 0;
+		rLoc = 209;
+		rType = 0;
+		vrLen = 305;
+		vrLoc = 0;
+	};
+	FDE49B230F4C6BF0002ADE15 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = FDE49B0F0F4C6930002ADE15 /* ScriptTableController.m */;
+		name = "ScriptTableController.m: 28";
+		rLen = 0;
+		rLoc = 660;
+		rType = 0;
+		vrLen = 389;
+		vrLoc = 266;
+	};
+	FDE49B240F4C6BF0002ADE15 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = FDE49B0E0F4C6930002ADE15 /* ScriptTableController.h */;
+		name = "ScriptTableController.h: 6";
+		rLen = 0;
+		rLoc = 264;
+		rType = 0;
+		vrLen = 132;
+		vrLoc = 0;
+	};
+	FDE49B250F4C6BF0002ADE15 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = FDE49B0F0F4C6930002ADE15 /* ScriptTableController.m */;
+		name = "ScriptTableController.m: 8";
+		rLen = 0;
+		rLoc = 660;
+		rType = 0;
+		vrLen = 199;
+		vrLoc = 0;
+	};
+	FDE49B260F4C6BF0002ADE15 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = FDE49B0E0F4C6930002ADE15 /* ScriptTableController.h */;
+		name = "ScriptTableController.h: 9";
+		rLen = 71;
+		rLoc = 194;
+		rType = 0;
+		vrLen = 267;
+		vrLoc = 0;
+	};
+	FDE49B270F4C6BF0002ADE15 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = FDE49B0F0F4C6930002ADE15 /* ScriptTableController.m */;
+		name = "ScriptTableController.m: 6";
+		rLen = 0;
+		rLoc = 128;
+		rType = 0;
+		vrLen = 337;
+		vrLoc = 0;
+	};
+	FDE49B280F4C6BF0002ADE15 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = FDE49B0E0F4C6930002ADE15 /* ScriptTableController.h */;
+		name = "ScriptTableController.h: 5";
+		rLen = 0;
+		rLoc = 122;
+		rType = 0;
+		vrLen = 266;
+		vrLoc = 0;
+	};
+	FDE49B290F4C6BF0002ADE15 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = FDE49B0F0F4C6930002ADE15 /* ScriptTableController.m */;
+		name = "ScriptTableController.m: 17";
+		rLen = 0;
+		rLoc = 509;
+		rType = 0;
+		vrLen = 425;
+		vrLoc = 0;
+	};
+	FDE49B2A0F4C6BF0002ADE15 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = FDE49B0E0F4C6930002ADE15 /* ScriptTableController.h */;
+		name = "ScriptTableController.h: 5";
+		rLen = 0;
+		rLoc = 122;
+		rType = 0;
+		vrLen = 266;
+		vrLoc = 0;
+	};
+	FDE49B2B0F4C6BF0002ADE15 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = FDE49B0F0F4C6930002ADE15 /* ScriptTableController.m */;
+		name = "ScriptTableController.m: 17";
+		rLen = 0;
+		rLoc = 509;
+		rType = 0;
+		vrLen = 480;
+		vrLoc = 0;
+	};
+	FDE49B2C0F4C6BF0002ADE15 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = FDE49B110F4C696E002ADE15 /* ScriptTable.h */;
+		name = "ScriptTable.h: 104";
+		rLen = 14;
+		rLoc = 4100;
+		rType = 0;
+		vrLen = 760;
+		vrLoc = 4031;
+	};
+	FDE49B2D0F4C6BF0002ADE15 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = FDE49B0F0F4C6930002ADE15 /* ScriptTableController.m */;
+		name = "ScriptTableController.m: 22";
+		rLen = 0;
+		rLoc = 600;
+		rType = 0;
+		vrLen = 455;
+		vrLoc = 96;
+	};
+	FDE49B2E0F4C6BF0002ADE15 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = FDE49B0E0F4C6930002ADE15 /* ScriptTableController.h */;
+		name = "ScriptTableController.h: 11";
+		rLen = 0;
+		rLoc = 286;
+		rType = 0;
+		vrLen = 301;
+		vrLoc = 0;
+	};
+	FDE49B2F0F4C6BF0002ADE15 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = FDE49B0F0F4C6930002ADE15 /* ScriptTableController.m */;
+		name = "ScriptTableController.m: 25";
+		rLen = 0;
+		rLoc = 660;
+		rType = 0;
+		vrLen = 395;
+		vrLoc = 210;
+	};
+	FDE49B300F4C6BF0002ADE15 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = FDE49B0E0F4C6930002ADE15 /* ScriptTableController.h */;
+		name = "ScriptTableController.h: 11";
+		rLen = 35;
+		rLoc = 265;
+		rType = 0;
+		vrLen = 301;
+		vrLoc = 0;
+	};
+	FDE49B310F4C6BF0002ADE15 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = FDE49B0F0F4C6930002ADE15 /* ScriptTableController.m */;
+		name = "ScriptTableController.m: 28";
+		rLen = 0;
+		rLoc = 660;
+		rType = 0;
+		vrLen = 389;
+		vrLoc = 266;
+	};
+	FDE49B320F4C6BF0002ADE15 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = FDE49B0E0F4C6930002ADE15 /* ScriptTableController.h */;
+		name = "ScriptTableController.h: 9";
+		rLen = 0;
+		rLoc = 209;
+		rType = 0;
+		vrLen = 305;
+		vrLoc = 0;
+	};
+	FDE49B330F4C6BF0002ADE15 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = FDE49B0F0F4C6930002ADE15 /* ScriptTableController.m */;
+		name = "ScriptTableController.m: 28";
+		rLen = 0;
+		rLoc = 660;
+		rType = 0;
+		vrLen = 470;
+		vrLoc = 0;
+	};
+	FDE49B410F4C6C30002ADE15 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = FDE49B0F0F4C6930002ADE15 /* ScriptTableController.m */;
+		name = "ScriptTableController.m: 28";
+		rLen = 0;
+		rLoc = 660;
+		rType = 0;
+		vrLen = 470;
+		vrLoc = 0;
+	};
+	FDE49B450F4C6C4A002ADE15 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = FDE49B0F0F4C6930002ADE15 /* ScriptTableController.m */;
+		name = "ScriptTableController.m: 28";
+		rLen = 0;
+		rLoc = 660;
+		rType = 0;
+		vrLen = 470;
+		vrLoc = 0;
+	};
+	FDE49B490F4C6C66002ADE15 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = FDE49B0E0F4C6930002ADE15 /* ScriptTableController.h */;
+		name = "ScriptTableController.h: 7";
+		rLen = 10;
+		rLoc = 180;
+		rType = 0;
+		vrLen = 305;
+		vrLoc = 0;
+	};
+	FDE49B4A0F4C6C66002ADE15 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = FDE49B0F0F4C6930002ADE15 /* ScriptTableController.m */;
+		name = "ScriptTableController.m: 23";
+		rLen = 0;
+		rLoc = 559;
+		rType = 0;
+		vrLen = 313;
+		vrLoc = 349;
+	};
+	FDE49B4B0F4C6C66002ADE15 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = FDE49B0F0F4C6930002ADE15 /* ScriptTableController.m */;
+		name = "ScriptTableController.m: 23";
+		rLen = 0;
+		rLoc = 559;
+		rType = 0;
+		vrLen = 313;
+		vrLoc = 349;
+	};
+	FDE49B4C0F4C6C66002ADE15 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = FDE49B0E0F4C6930002ADE15 /* ScriptTableController.h */;
+		name = "ScriptTableController.h: 7";
+		rLen = 10;
+		rLoc = 180;
+		rType = 0;
+		vrLen = 305;
+		vrLoc = 0;
+	};
+	FDE49B4D0F4C6C66002ADE15 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = FDE49B0F0F4C6930002ADE15 /* ScriptTableController.m */;
+		name = "ScriptTableController.m: 23";
+		rLen = 0;
+		rLoc = 585;
+		rType = 0;
+		vrLen = 362;
+		vrLoc = 304;
+	};
+}

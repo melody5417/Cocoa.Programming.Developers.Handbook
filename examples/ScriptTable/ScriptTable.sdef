@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary 
+	SYSTEM "file://localhost/System/Library/DTDs/sdef.dtd">
+
+<dictionary title="ScriptTable Terminology" 
+	xmlns:xi="http://www.w3.org/2001/XInclude">
+
+	<xi:include href="file:///System/Library/ScriptingDefinitions/CocoaStandard.sdef"
+		xpointer="xpointer(/dictionary/suite)" />
+
+	<suite name="ScriptTable Suite" code="stbl" description="Classes for the ScriptTable example">
+	
+		<command name="clear rows" code="tablcler" description="Clear the rows in the table." >
+			<direct-parameter type="specifier" description="the table to empty."/>
+		</command>
+		<command name="add row" code="tabladdr" description="Add a new row to the table." >
+			<direct-parameter type="specifier" description="the table to modify."/>
+			<parameter code="rtxt" name="displaying" description="The text of the row.">
+				<type type="text" list="no"/>
+				<cocoa key="entry" />
+			</parameter>
+		</command>
+
+		<class name="document" code="docu" description="A ScriptTable document">
+			<cocoa class="TableModel" />
+
+			<element type="row">
+				<cocoa key="items" />
+			</element>
+
+			<responds-to name="clear rows">
+				<cocoa method="handleClearScriptCommand:" />
+			</responds-to>
+			<responds-to name="add row">
+				<cocoa method="handleAddScriptCommand:" />
+			</responds-to>
+
+		</class>
+		
+		<class name="row" code="trow" description="An item in the table">
+			<cocoa class="TableItem" />
+			<property type="text" name="title" code="str ">
+				<cocoa key="string" />
+			</property>
+		</class>
+		
+	</suite>
+</dictionary>

@@ -1,0 +1,62 @@
+// !$*UTF8*$!
+{
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = FD5F9DB40F432C0B003514AF /* Rotate3D */;
+		activeTarget = 8D1107260486CEB800E47090 /* Rotate3D */;
+		addToTargets = (
+			8D1107260486CEB800E47090 /* Rotate3D */,
+		);
+		codeSenseManager = FD5F9DBA0F432C1A003514AF /* Code sense */;
+		executables = (
+			FD5F9DB40F432C0B003514AF /* Rotate3D */,
+		);
+		perUserDictionary = {
+			PBXPerProjectTemplateStateSaveDate = 256060427;
+			PBXWorkspaceStateSaveDate = 256060427;
+		};
+		sourceControlManager = FD5F9DB90F432C1A003514AF /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	8D1107260486CEB800E47090 /* Rotate3D */ = {
+		activeExec = 0;
+		executables = (
+			FD5F9DB40F432C0B003514AF /* Rotate3D */,
+		);
+	};
+	FD5F9DB40F432C0B003514AF /* Rotate3D */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 1;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = Rotate3D;
+		sourceDirectories = (
+		);
+	};
+	FD5F9DB90F432C1A003514AF /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+		};
+	};
+	FD5F9DBA0F432C1A003514AF /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+}

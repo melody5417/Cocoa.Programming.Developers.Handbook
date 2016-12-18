@@ -1,0 +1,173 @@
+// !$*UTF8*$!
+{
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = FDAFCF090F518E36008798D4 /* FontFactory */;
+		activeTarget = 8D1107260486CEB800E47090 /* FontFactory */;
+		addToTargets = (
+			8D1107260486CEB800E47090 /* FontFactory */,
+		);
+		breakpoints = (
+		);
+		codeSenseManager = FDAFCF100F518E3A008798D4 /* Code sense */;
+		executables = (
+			FDAFCF090F518E36008798D4 /* FontFactory */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					341,
+					20,
+					48.16259765625,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 257003062;
+			PBXWorkspaceStateSaveDate = 257003062;
+		};
+		perUserProjectItems = {
+			FDAFCF1A0F51931B008798D4 /* PBXTextBookmark */ = FDAFCF1A0F51931B008798D4 /* PBXTextBookmark */;
+			FDAFCF1B0F51931B008798D4 /* PBXTextBookmark */ = FDAFCF1B0F51931B008798D4 /* PBXTextBookmark */;
+			FDAFCF1C0F51931B008798D4 /* PBXTextBookmark */ = FDAFCF1C0F51931B008798D4 /* PBXTextBookmark */;
+			FDAFCF1D0F51931B008798D4 /* PBXTextBookmark */ = FDAFCF1D0F51931B008798D4 /* PBXTextBookmark */;
+			FDAFCF1E0F51931B008798D4 /* PBXTextBookmark */ = FDAFCF1E0F51931B008798D4 /* PBXTextBookmark */;
+			FDAFCF3B0F51962F008798D4 /* PBXTextBookmark */ = FDAFCF3B0F51962F008798D4 /* PBXTextBookmark */;
+		};
+		sourceControlManager = FDAFCF0F0F518E3A008798D4 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	8D1107260486CEB800E47090 /* FontFactory */ = {
+		activeExec = 0;
+		executables = (
+			FDAFCF090F518E36008798D4 /* FontFactory */,
+		);
+	};
+	FDAFCF090F518E36008798D4 /* FontFactory */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 1;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = FontFactory;
+		savedGlobals = {
+		};
+		sourceDirectories = (
+		);
+		variableFormatDictionary = {
+		};
+	};
+	FDAFCF0F0F518E3A008798D4 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+		};
+	};
+	FDAFCF100F518E3A008798D4 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	FDAFCF130F518F97008798D4 /* FontController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {519, 230}}";
+			sepNavSelRange = "{169, 0}";
+			sepNavVisRange = "{0, 216}";
+		};
+	};
+	FDAFCF140F518F97008798D4 /* FontController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {519, 602}}";
+			sepNavSelRange = "{805, 0}";
+			sepNavVisRange = "{144, 437}";
+		};
+	};
+	FDAFCF1A0F51931B008798D4 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = FDAFCF130F518F97008798D4 /* FontController.h */;
+		name = "FontController.h: 8";
+		rLen = 0;
+		rLoc = 169;
+		rType = 0;
+		vrLen = 216;
+		vrLoc = 0;
+	};
+	FDAFCF1B0F51931B008798D4 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = FDAFCF140F518F97008798D4 /* FontController.m */;
+		name = "FontController.m: 68";
+		rLen = 0;
+		rLoc = 895;
+		rType = 0;
+		vrLen = 317;
+		vrLoc = 529;
+	};
+	FDAFCF1C0F51931B008798D4 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = FDAFCF130F518F97008798D4 /* FontController.h */;
+		name = "FontController.h: 6";
+		rLen = 116;
+		rLoc = 95;
+		rType = 0;
+		vrLen = 280;
+		vrLoc = 0;
+	};
+	FDAFCF1D0F51931B008798D4 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = FDAFCF140F518F97008798D4 /* FontController.m */;
+		name = "FontController.m: 68";
+		rLen = 0;
+		rLoc = 895;
+		rType = 0;
+		vrLen = 317;
+		vrLoc = 529;
+	};
+	FDAFCF1E0F51931B008798D4 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = FDAFCF130F518F97008798D4 /* FontController.h */;
+		name = "FontController.h: 8";
+		rLen = 0;
+		rLoc = 169;
+		rType = 0;
+		vrLen = 216;
+		vrLoc = 0;
+	};
+	FDAFCF3B0F51962F008798D4 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = FDAFCF140F518F97008798D4 /* FontController.m */;
+		name = "FontController.m: 37";
+		rLen = 0;
+		rLoc = 805;
+		rType = 0;
+		vrLen = 437;
+		vrLoc = 144;
+	};
+}

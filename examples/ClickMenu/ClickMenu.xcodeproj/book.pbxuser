@@ -1,0 +1,278 @@
+// !$*UTF8*$!
+{
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = FDAFCE8E0F4F3B7D008798D4 /* ClickMenu */;
+		activeTarget = 8D1107260486CEB800E47090 /* ClickMenu */;
+		addToTargets = (
+			8D1107260486CEB800E47090 /* ClickMenu */,
+		);
+		breakpoints = (
+		);
+		codeSenseManager = FDAFCE9D0F4F3B93008798D4 /* Code sense */;
+		executables = (
+			FDAFCE8E0F4F3B7D008798D4 /* ClickMenu */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					341,
+					20,
+					48.16259765625,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 256850813;
+			PBXWorkspaceStateSaveDate = 256850813;
+		};
+		perUserProjectItems = {
+			FDAFCEA60F4F3D44008798D4 /* PBXTextBookmark */ = FDAFCEA60F4F3D44008798D4 /* PBXTextBookmark */;
+			FDAFCEA80F4F3D44008798D4 /* PBXTextBookmark */ = FDAFCEA80F4F3D44008798D4 /* PBXTextBookmark */;
+			FDAFCEA90F4F3D44008798D4 /* PBXTextBookmark */ = FDAFCEA90F4F3D44008798D4 /* PBXTextBookmark */;
+			FDAFCEAA0F4F3D44008798D4 /* PBXTextBookmark */ = FDAFCEAA0F4F3D44008798D4 /* PBXTextBookmark */;
+			FDAFCEAB0F4F3D44008798D4 /* PBXTextBookmark */ = FDAFCEAB0F4F3D44008798D4 /* PBXTextBookmark */;
+			FDAFCEAC0F4F3D44008798D4 /* PBXTextBookmark */ = FDAFCEAC0F4F3D44008798D4 /* PBXTextBookmark */;
+			FDAFCEAD0F4F3D44008798D4 /* PBXTextBookmark */ = FDAFCEAD0F4F3D44008798D4 /* PBXTextBookmark */;
+			FDAFCEAE0F4F3D44008798D4 /* PBXTextBookmark */ = FDAFCEAE0F4F3D44008798D4 /* PBXTextBookmark */;
+			FDAFCEAF0F4F3D44008798D4 /* PBXTextBookmark */ = FDAFCEAF0F4F3D44008798D4 /* PBXTextBookmark */;
+			FDAFCEB00F4F3D44008798D4 /* PBXTextBookmark */ = FDAFCEB00F4F3D44008798D4 /* PBXTextBookmark */;
+			FDAFCEB10F4F3D44008798D4 /* PBXTextBookmark */ = FDAFCEB10F4F3D44008798D4 /* PBXTextBookmark */;
+			FDAFCEB20F4F3D44008798D4 /* PBXTextBookmark */ = FDAFCEB20F4F3D44008798D4 /* PBXTextBookmark */;
+			FDAFCEB30F4F3D44008798D4 /* PBXTextBookmark */ = FDAFCEB30F4F3D44008798D4 /* PBXTextBookmark */;
+			FDAFCEC50F4F3DBD008798D4 /* PBXTextBookmark */ = FDAFCEC50F4F3DBD008798D4 /* PBXTextBookmark */;
+			FDAFCEC70F4F3DDC008798D4 /* PBXTextBookmark */ = FDAFCEC70F4F3DDC008798D4 /* PBXTextBookmark */;
+		};
+		sourceControlManager = FDAFCE9C0F4F3B93008798D4 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	8D1107260486CEB800E47090 /* ClickMenu */ = {
+		activeExec = 0;
+		executables = (
+			FDAFCE8E0F4F3B7D008798D4 /* ClickMenu */,
+		);
+	};
+	FDAFCE8E0F4F3B7D008798D4 /* ClickMenu */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 1;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = ClickMenu;
+		savedGlobals = {
+		};
+		sourceDirectories = (
+		);
+		variableFormatDictionary = {
+		};
+	};
+	FDAFCE990F4F3B93008798D4 /* ClickMenuView.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {519, 230}}";
+			sepNavSelRange = "{85, 0}";
+			sepNavVisRange = "{0, 123}";
+		};
+	};
+	FDAFCE9A0F4F3B93008798D4 /* ClickMenuView.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {519, 294}}";
+			sepNavSelRange = "{283, 0}";
+			sepNavVisRange = "{27, 352}";
+		};
+	};
+	FDAFCE9C0F4F3B93008798D4 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+		};
+	};
+	FDAFCE9D0F4F3B93008798D4 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	FDAFCEA60F4F3D44008798D4 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = FDAFCEA70F4F3D44008798D4 /* ClickTextView.m */;
+		name = "ClickTextView.m: 26";
+		rLen = 68;
+		rLoc = 531;
+		rType = 0;
+		vrLen = 525;
+		vrLoc = 409;
+	};
+	FDAFCEA70F4F3D44008798D4 /* ClickTextView.m */ = {
+		isa = PBXFileReference;
+		name = ClickTextView.m;
+		path = /Users/book/Desktop/examples/ClickText/ClickTextView.m;
+		sourceTree = "<absolute>";
+	};
+	FDAFCEA80F4F3D44008798D4 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = FDAFCE990F4F3B93008798D4 /* ClickMenuView.h */;
+		name = "ClickMenuView.h: 4";
+		rLen = 0;
+		rLoc = 85;
+		rType = 0;
+		vrLen = 123;
+		vrLoc = 0;
+	};
+	FDAFCEA90F4F3D44008798D4 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = FDAFCE9A0F4F3B93008798D4 /* ClickMenuView.m */;
+		name = "ClickMenuView.m: 16";
+		rLen = 0;
+		rLoc = 303;
+		rType = 0;
+		vrLen = 359;
+		vrLoc = 26;
+	};
+	FDAFCEAA0F4F3D44008798D4 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = FDAFCE990F4F3B93008798D4 /* ClickMenuView.h */;
+		name = "ClickMenuView.h: 3";
+		rLen = 0;
+		rLoc = 117;
+		rType = 0;
+		vrLen = 67;
+		vrLoc = 0;
+	};
+	FDAFCEAB0F4F3D44008798D4 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = FDAFCE990F4F3B93008798D4 /* ClickMenuView.h */;
+		name = "ClickMenuView.h: 3";
+		rLen = 0;
+		rLoc = 117;
+		rType = 0;
+		vrLen = 67;
+		vrLoc = 0;
+	};
+	FDAFCEAC0F4F3D44008798D4 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = FDAFCE990F4F3B93008798D4 /* ClickMenuView.h */;
+		name = "ClickMenuView.h: 4";
+		rLen = 0;
+		rLoc = 115;
+		rType = 0;
+		vrLen = 92;
+		vrLoc = 0;
+	};
+	FDAFCEAD0F4F3D44008798D4 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = FDAFCE990F4F3B93008798D4 /* ClickMenuView.h */;
+		name = "ClickMenuView.h: 5";
+		rLen = 0;
+		rLoc = 115;
+		rType = 0;
+		vrLen = 118;
+		vrLoc = 0;
+	};
+	FDAFCEAE0F4F3D44008798D4 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = FDAFCE990F4F3B93008798D4 /* ClickMenuView.h */;
+		name = "ClickMenuView.h: 5";
+		rLen = 0;
+		rLoc = 115;
+		rType = 0;
+		vrLen = 118;
+		vrLoc = 0;
+	};
+	FDAFCEAF0F4F3D44008798D4 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = FDAFCE9A0F4F3B93008798D4 /* ClickMenuView.m */;
+		name = "ClickMenuView.m: 17";
+		rLen = 0;
+		rLoc = 371;
+		rType = 0;
+		vrLen = 351;
+		vrLoc = 0;
+	};
+	FDAFCEB00F4F3D44008798D4 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = FDAFCE990F4F3B93008798D4 /* ClickMenuView.h */;
+		name = "ClickMenuView.h: 4";
+		rLen = 0;
+		rLoc = 85;
+		rType = 0;
+		vrLen = 123;
+		vrLoc = 0;
+	};
+	FDAFCEB10F4F3D44008798D4 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = FDAFCE9A0F4F3B93008798D4 /* ClickMenuView.m */;
+		name = "ClickMenuView.m: 16";
+		rLen = 0;
+		rLoc = 303;
+		rType = 0;
+		vrLen = 359;
+		vrLoc = 26;
+	};
+	FDAFCEB20F4F3D44008798D4 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = FDAFCE990F4F3B93008798D4 /* ClickMenuView.h */;
+		name = "ClickMenuView.h: 4";
+		rLen = 0;
+		rLoc = 85;
+		rType = 0;
+		vrLen = 123;
+		vrLoc = 0;
+	};
+	FDAFCEB30F4F3D44008798D4 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = FDAFCE9A0F4F3B93008798D4 /* ClickMenuView.m */;
+		name = "ClickMenuView.m: 16";
+		rLen = 0;
+		rLoc = 314;
+		rType = 0;
+		vrLen = 355;
+		vrLoc = 26;
+	};
+	FDAFCEC50F4F3DBD008798D4 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = FDAFCE9A0F4F3B93008798D4 /* ClickMenuView.m */;
+		name = "ClickMenuView.m: 14";
+		rLen = 0;
+		rLoc = 283;
+		rType = 0;
+		vrLen = 352;
+		vrLoc = 27;
+	};
+	FDAFCEC70F4F3DDC008798D4 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = FDAFCE9A0F4F3B93008798D4 /* ClickMenuView.m */;
+		name = "ClickMenuView.m: 14";
+		rLen = 0;
+		rLoc = 283;
+		rType = 0;
+		vrLen = 352;
+		vrLoc = 27;
+	};
+}

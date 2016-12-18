@@ -1,0 +1,7 @@
+//
+// Prefix header for all source files of the 'MeetingViewer' target in the 'MeetingViewer' project
+//
+
+#ifdef __OBJC__
+    #import <Cocoa/Cocoa.h>
+#endif

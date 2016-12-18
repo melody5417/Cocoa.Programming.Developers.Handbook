@@ -1,0 +1,170 @@
+// !$*UTF8*$!
+{
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = FD1798780F4DEB8D0037AA3C /* StandardPalettes */;
+		activeTarget = 8D1107260486CEB800E47090 /* StandardPalettes */;
+		addToTargets = (
+			8D1107260486CEB800E47090 /* StandardPalettes */,
+		);
+		breakpoints = (
+		);
+		codeSenseManager = FD1798870F4DEB910037AA3C /* Code sense */;
+		executables = (
+			FD1798780F4DEB8D0037AA3C /* StandardPalettes */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					341,
+					20,
+					48.16259765625,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 256764813;
+			PBXWorkspaceStateSaveDate = 256764813;
+		};
+		perUserProjectItems = {
+			FD1798990F4DEE510037AA3C /* PBXTextBookmark */ = FD1798990F4DEE510037AA3C /* PBXTextBookmark */;
+			FD17989A0F4DEE510037AA3C /* PBXTextBookmark */ = FD17989A0F4DEE510037AA3C /* PBXTextBookmark */;
+			FD17989B0F4DEE510037AA3C /* PBXTextBookmark */ = FD17989B0F4DEE510037AA3C /* PBXTextBookmark */;
+			FD17989C0F4DEE510037AA3C /* PBXTextBookmark */ = FD17989C0F4DEE510037AA3C /* PBXTextBookmark */;
+			FD1798AA0F4DEE660037AA3C /* PBXTextBookmark */ = FD1798AA0F4DEE660037AA3C /* PBXTextBookmark */;
+			FD1798AD0F4DEEB90037AA3C /* PBXTextBookmark */ = FD1798AD0F4DEEB90037AA3C /* PBXTextBookmark */;
+		};
+		sourceControlManager = FD1798860F4DEB910037AA3C /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	8D1107260486CEB800E47090 /* StandardPalettes */ = {
+		activeExec = 0;
+		executables = (
+			FD1798780F4DEB8D0037AA3C /* StandardPalettes */,
+		);
+	};
+	FD1798780F4DEB8D0037AA3C /* StandardPalettes */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 1;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = StandardPalettes;
+		savedGlobals = {
+		};
+		sourceDirectories = (
+		);
+		variableFormatDictionary = {
+		};
+	};
+	FD1798860F4DEB910037AA3C /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+		};
+	};
+	FD1798870F4DEB910037AA3C /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	FD1798880F4DEB9F0037AA3C /* PaletteController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {519, 253}}";
+			sepNavSelRange = "{98, 79}";
+			sepNavVisRange = "{0, 182}";
+		};
+	};
+	FD1798890F4DEB9F0037AA3C /* PaletteController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {519, 392}}";
+			sepNavSelRange = "{619, 0}";
+			sepNavVisRange = "{274, 444}";
+		};
+	};
+	FD1798990F4DEE510037AA3C /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = FD1798880F4DEB9F0037AA3C /* PaletteController.h */;
+		name = "PaletteController.h: 6";
+		rLen = 79;
+		rLoc = 98;
+		rType = 0;
+		vrLen = 182;
+		vrLoc = 0;
+	};
+	FD17989A0F4DEE510037AA3C /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = FD1798890F4DEB9F0037AA3C /* PaletteController.m */;
+		rLen = 0;
+		rLoc = 2147484131;
+		rType = 0;
+	};
+	FD17989B0F4DEE510037AA3C /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = FD1798880F4DEB9F0037AA3C /* PaletteController.h */;
+		name = "PaletteController.h: 6";
+		rLen = 79;
+		rLoc = 98;
+		rType = 0;
+		vrLen = 182;
+		vrLoc = 0;
+	};
+	FD17989C0F4DEE510037AA3C /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = FD1798890F4DEB9F0037AA3C /* PaletteController.m */;
+		name = "PaletteController.m: 23";
+		rLen = 0;
+		rLoc = 621;
+		rType = 0;
+		vrLen = 453;
+		vrLoc = 323;
+	};
+	FD1798AA0F4DEE660037AA3C /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = FD1798890F4DEB9F0037AA3C /* PaletteController.m */;
+		name = "PaletteController.m: 21";
+		rLen = 0;
+		rLoc = 568;
+		rType = 0;
+		vrLen = 430;
+		vrLoc = 321;
+	};
+	FD1798AD0F4DEEB90037AA3C /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = FD1798890F4DEB9F0037AA3C /* PaletteController.m */;
+		name = "PaletteController.m: 21";
+		rLen = 0;
+		rLoc = 619;
+		rType = 0;
+		vrLen = 444;
+		vrLoc = 274;
+	};
+}

@@ -1,0 +1,224 @@
+// !$*UTF8*$!
+{
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = FD610EC30F41C52D009EC265 /* BouncingWindow */;
+		activeTarget = 8D1107260486CEB800E47090 /* BouncingWindow */;
+		addToTargets = (
+			8D1107260486CEB800E47090 /* BouncingWindow */,
+		);
+		breakpoints = (
+		);
+		codeSenseManager = FD610ECA0F41C545009EC265 /* Code sense */;
+		executables = (
+			FD610EC30F41C52D009EC265 /* BouncingWindow */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					341,
+					20,
+					48.16259765625,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 255968557;
+			PBXWorkspaceStateSaveDate = 255968557;
+		};
+		perUserProjectItems = {
+			FD610ED90F41C874009EC265 /* PBXTextBookmark */ = FD610ED90F41C874009EC265 /* PBXTextBookmark */;
+			FD610EDA0F41C874009EC265 /* PBXTextBookmark */ = FD610EDA0F41C874009EC265 /* PBXTextBookmark */;
+			FD610EDB0F41C874009EC265 /* PBXTextBookmark */ = FD610EDB0F41C874009EC265 /* PBXTextBookmark */;
+			FD610EDC0F41C874009EC265 /* PBXTextBookmark */ = FD610EDC0F41C874009EC265 /* PBXTextBookmark */;
+			FD610EDD0F41C874009EC265 /* PBXTextBookmark */ = FD610EDD0F41C874009EC265 /* PBXTextBookmark */;
+			FD610EDE0F41C874009EC265 /* PBXTextBookmark */ = FD610EDE0F41C874009EC265 /* PBXTextBookmark */;
+			FD610EDF0F41C874009EC265 /* PBXTextBookmark */ = FD610EDF0F41C874009EC265 /* PBXTextBookmark */;
+			FD610EE00F41C874009EC265 /* PBXTextBookmark */ = FD610EE00F41C874009EC265 /* PBXTextBookmark */;
+			FD610EE10F41C874009EC265 /* PBXTextBookmark */ = FD610EE10F41C874009EC265 /* PBXTextBookmark */;
+			FD610F020F41C914009EC265 /* PBXTextBookmark */ = FD610F020F41C914009EC265 /* PBXTextBookmark */;
+		};
+		sourceControlManager = FD610EC90F41C545009EC265 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	32CA4F630368D1EE00C91783 /* BouncingWindow_Prefix.pch */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {612, 253}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 159}";
+		};
+	};
+	8D1107260486CEB800E47090 /* BouncingWindow */ = {
+		activeExec = 0;
+		executables = (
+			FD610EC30F41C52D009EC265 /* BouncingWindow */,
+		);
+	};
+	FD610EC30F41C52D009EC265 /* BouncingWindow */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 1;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = BouncingWindow;
+		savedGlobals = {
+		};
+		sourceDirectories = (
+		);
+		variableFormatDictionary = {
+		};
+	};
+	FD610EC60F41C545009EC265 /* BouncingWindowController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {519, 253}}";
+			sepNavSelRange = "{98, 0}";
+			sepNavVisRange = "{0, 110}";
+		};
+	};
+	FD610EC70F41C545009EC265 /* BouncingWindowController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {519, 532}}";
+			sepNavSelRange = "{278, 0}";
+			sepNavVisRange = "{0, 436}";
+		};
+	};
+	FD610EC90F41C545009EC265 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+		};
+	};
+	FD610ECA0F41C545009EC265 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	FD610ED90F41C874009EC265 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 32CA4F630368D1EE00C91783 /* BouncingWindow_Prefix.pch */;
+		name = "BouncingWindow_Prefix.pch: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 159;
+		vrLoc = 0;
+	};
+	FD610EDA0F41C874009EC265 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = FD610EC60F41C545009EC265 /* BouncingWindowController.h */;
+		name = "BoundingWindowController.h: 5";
+		rLen = 0;
+		rLoc = 98;
+		rType = 0;
+		vrLen = 110;
+		vrLoc = 0;
+	};
+	FD610EDB0F41C874009EC265 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = FD610EC70F41C545009EC265 /* BouncingWindowController.m */;
+		name = "BoundingWindowController.m: 16";
+		rLen = 0;
+		rLoc = 435;
+		rType = 0;
+		vrLen = 359;
+		vrLoc = 0;
+	};
+	FD610EDC0F41C874009EC265 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 32CA4F630368D1EE00C91783 /* BouncingWindow_Prefix.pch */;
+		name = "BouncingWindow_Prefix.pch: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 159;
+		vrLoc = 0;
+	};
+	FD610EDD0F41C874009EC265 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = FD610EC60F41C545009EC265 /* BouncingWindowController.h */;
+		name = "BoundingWindowController.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 84;
+		vrLoc = 0;
+	};
+	FD610EDE0F41C874009EC265 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = FD610EC70F41C545009EC265 /* BouncingWindowController.m */;
+		name = "BoundingWindowController.m: 4";
+		rLen = 0;
+		rLoc = 792;
+		rType = 0;
+		vrLen = 85;
+		vrLoc = 0;
+	};
+	FD610EDF0F41C874009EC265 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = FD610EC60F41C545009EC265 /* BouncingWindowController.h */;
+		name = "BoundingWindowController.h: 4";
+		rLen = 0;
+		rLoc = 82;
+		rType = 0;
+		vrLen = 92;
+		vrLoc = 0;
+	};
+	FD610EE00F41C874009EC265 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = FD610EC70F41C545009EC265 /* BouncingWindowController.m */;
+		name = "BoundingWindowController.m: 16";
+		rLen = 0;
+		rLoc = 435;
+		rType = 0;
+		vrLen = 359;
+		vrLoc = 0;
+	};
+	FD610EE10F41C874009EC265 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = FD610EC60F41C545009EC265 /* BouncingWindowController.h */;
+		name = "BoundingWindowController.h: 5";
+		rLen = 0;
+		rLoc = 98;
+		rType = 0;
+		vrLen = 110;
+		vrLoc = 0;
+	};
+	FD610F020F41C914009EC265 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = FD610EC70F41C545009EC265 /* BouncingWindowController.m */;
+		name = "BouncingWindowController.m: 12";
+		rLen = 0;
+		rLoc = 278;
+		rType = 0;
+		vrLen = 436;
+		vrLoc = 0;
+	};
+}

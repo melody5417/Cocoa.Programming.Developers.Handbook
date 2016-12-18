@@ -1,0 +1,272 @@
+// !$*UTF8*$!
+{
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = FD8CCEBB0F530E9B0089A334 /* VideoRecorder */;
+		activeTarget = 8D1107260486CEB800E47090 /* VideoRecorder */;
+		addToTargets = (
+			8D1107260486CEB800E47090 /* VideoRecorder */,
+		);
+		breakpoints = (
+		);
+		codeSenseManager = FD8CCECA0F530EA80089A334 /* Code sense */;
+		executables = (
+			FD8CCEBB0F530E9B0089A334 /* VideoRecorder */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					341,
+					20,
+					48.16259765625,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 257101467;
+			PBXWorkspaceStateSaveDate = 257101467;
+		};
+		perUserProjectItems = {
+			FD8CCED70F5313230089A334 /* PBXTextBookmark */ = FD8CCED70F5313230089A334 /* PBXTextBookmark */;
+			FD8CCED80F5313230089A334 /* PBXTextBookmark */ = FD8CCED80F5313230089A334 /* PBXTextBookmark */;
+			FD8CCED90F5313230089A334 /* PBXTextBookmark */ = FD8CCED90F5313230089A334 /* PBXTextBookmark */;
+			FD8CCEDA0F5313230089A334 /* PBXTextBookmark */ = FD8CCEDA0F5313230089A334 /* PBXTextBookmark */;
+			FD8CCEDB0F5313230089A334 /* PBXTextBookmark */ = FD8CCEDB0F5313230089A334 /* PBXTextBookmark */;
+			FD8CCEDC0F5313230089A334 /* PBXTextBookmark */ = FD8CCEDC0F5313230089A334 /* PBXTextBookmark */;
+			FD8CCEDD0F5313230089A334 /* PBXTextBookmark */ = FD8CCEDD0F5313230089A334 /* PBXTextBookmark */;
+			FD8CCEDE0F5313230089A334 /* PBXTextBookmark */ = FD8CCEDE0F5313230089A334 /* PBXTextBookmark */;
+			FD8CCEF00F53132A0089A334 /* PBXTextBookmark */ = FD8CCEF00F53132A0089A334 /* PBXTextBookmark */;
+			FD8CCEF20F5313430089A334 /* PBXTextBookmark */ = FD8CCEF20F5313430089A334 /* PBXTextBookmark */;
+			FD8CCEF50F53135C0089A334 /* PBXTextBookmark */ = FD8CCEF50F53135C0089A334 /* PBXTextBookmark */;
+			FD8CCEF80F5313840089A334 /* PBXTextBookmark */ = FD8CCEF80F5313840089A334 /* PBXTextBookmark */;
+			FD8CCEFB0F5313D10089A334 /* PBXTextBookmark */ = FD8CCEFB0F5313D10089A334 /* PBXTextBookmark */;
+			FD8CCEFF0F5313DC0089A334 /* PBXTextBookmark */ = FD8CCEFF0F5313DC0089A334 /* PBXTextBookmark */;
+			FD8CCF010F53146A0089A334 /* PBXTextBookmark */ = FD8CCF010F53146A0089A334 /* PBXTextBookmark */;
+		};
+		sourceControlManager = FD8CCEC90F530EA80089A334 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	8D1107260486CEB800E47090 /* VideoRecorder */ = {
+		activeExec = 0;
+		executables = (
+			FD8CCEBB0F530E9B0089A334 /* VideoRecorder */,
+		);
+	};
+	FD8CCEBB0F530E9B0089A334 /* VideoRecorder */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 1;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = VideoRecorder;
+		savedGlobals = {
+		};
+		sourceDirectories = (
+		);
+		variableFormatDictionary = {
+		};
+	};
+	FD8CCEC60F530EA70089A334 /* VideoRecorder.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {633, 164}}";
+			sepNavSelRange = "{142, 0}";
+			sepNavVisRange = "{0, 213}";
+		};
+	};
+	FD8CCEC70F530EA70089A334 /* VideoRecorder.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {519, 644}}";
+			sepNavSelRange = "{913, 0}";
+			sepNavVisRange = "{466, 348}";
+		};
+	};
+	FD8CCEC90F530EA80089A334 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+		};
+	};
+	FD8CCECA0F530EA80089A334 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	FD8CCED70F5313230089A334 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = FD8CCEC60F530EA70089A334 /* VideoRecorder.h */;
+		name = "VideoRecorder.h: 8";
+		rLen = 32;
+		rLoc = 176;
+		rType = 0;
+		vrLen = 185;
+		vrLoc = 0;
+	};
+	FD8CCED80F5313230089A334 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = FD8CCEC70F530EA70089A334 /* VideoRecorder.m */;
+		name = "VideoRecorder.m: 17";
+		rLen = 0;
+		rLoc = 922;
+		rType = 0;
+		vrLen = 449;
+		vrLoc = 0;
+	};
+	FD8CCED90F5313230089A334 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = FD8CCEC60F530EA70089A334 /* VideoRecorder.h */;
+		name = "VideoRecorder.h: 5";
+		rLen = 0;
+		rLoc = 173;
+		rType = 0;
+		vrLen = 123;
+		vrLoc = 0;
+	};
+	FD8CCEDA0F5313230089A334 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = FD8CCEC70F530EA70089A334 /* VideoRecorder.m */;
+		name = "VideoRecorder.m: 13";
+		rLen = 0;
+		rLoc = 545;
+		rType = 0;
+		vrLen = 366;
+		vrLoc = 0;
+	};
+	FD8CCEDB0F5313230089A334 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = FD8CCEC60F530EA70089A334 /* VideoRecorder.h */;
+		name = "VideoRecorder.h: 6";
+		rLen = 0;
+		rLoc = 173;
+		rType = 0;
+		vrLen = 154;
+		vrLoc = 0;
+	};
+	FD8CCEDC0F5313230089A334 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = FD8CCEC70F530EA70089A334 /* VideoRecorder.m */;
+		name = "VideoRecorder.m: 17";
+		rLen = 0;
+		rLoc = 922;
+		rType = 0;
+		vrLen = 449;
+		vrLoc = 0;
+	};
+	FD8CCEDD0F5313230089A334 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = FD8CCEC60F530EA70089A334 /* VideoRecorder.h */;
+		name = "VideoRecorder.h: 8";
+		rLen = 32;
+		rLoc = 176;
+		rType = 0;
+		vrLen = 185;
+		vrLoc = 0;
+	};
+	FD8CCEDE0F5313230089A334 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = FD8CCEC70F530EA70089A334 /* VideoRecorder.m */;
+		name = "VideoRecorder.m: 28";
+		rLen = 0;
+		rLoc = 743;
+		rType = 0;
+		vrLen = 478;
+		vrLoc = 262;
+	};
+	FD8CCEF00F53132A0089A334 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = FD8CCEC70F530EA70089A334 /* VideoRecorder.m */;
+		name = "VideoRecorder.m: 28";
+		rLen = 0;
+		rLoc = 743;
+		rType = 0;
+		vrLen = 244;
+		vrLoc = 671;
+	};
+	FD8CCEF20F5313430089A334 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = FD8CCEC70F530EA70089A334 /* VideoRecorder.m */;
+		name = "VideoRecorder.m: 39";
+		rLen = 0;
+		rLoc = 913;
+		rType = 0;
+		vrLen = 209;
+		vrLoc = 743;
+	};
+	FD8CCEF50F53135C0089A334 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = FD8CCEC70F530EA70089A334 /* VideoRecorder.m */;
+		name = "VideoRecorder.m: 39";
+		rLen = 0;
+		rLoc = 913;
+		rType = 0;
+		vrLen = 234;
+		vrLoc = 718;
+	};
+	FD8CCEF80F5313840089A334 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = FD8CCEC70F530EA70089A334 /* VideoRecorder.m */;
+		name = "VideoRecorder.m: 39";
+		rLen = 0;
+		rLoc = 913;
+		rType = 0;
+		vrLen = 234;
+		vrLoc = 718;
+	};
+	FD8CCEFB0F5313D10089A334 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = FD8CCEC70F530EA70089A334 /* VideoRecorder.m */;
+		name = "VideoRecorder.m: 39";
+		rLen = 0;
+		rLoc = 913;
+		rType = 0;
+		vrLen = 229;
+		vrLoc = 723;
+	};
+	FD8CCEFF0F5313DC0089A334 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = FD8CCEC70F530EA70089A334 /* VideoRecorder.m */;
+		name = "VideoRecorder.m: 39";
+		rLen = 0;
+		rLoc = 913;
+		rType = 0;
+		vrLen = 229;
+		vrLoc = 723;
+	};
+	FD8CCF010F53146A0089A334 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = FD8CCEC70F530EA70089A334 /* VideoRecorder.m */;
+		name = "VideoRecorder.m: 40";
+		rLen = 0;
+		rLoc = 913;
+		rType = 0;
+		vrLen = 348;
+		vrLoc = 466;
+	};
+}

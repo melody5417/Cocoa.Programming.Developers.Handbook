@@ -1,0 +1,7 @@
+//
+// Prefix header for all source files of the 'FormViews' target in the 'FormViews' project
+//
+
+#ifdef __OBJC__
+    #import <Cocoa/Cocoa.h>
+#endif

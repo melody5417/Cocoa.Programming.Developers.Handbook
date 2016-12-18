@@ -1,0 +1,62 @@
+// !$*UTF8*$!
+{
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = FD8D96A70F2B6B76006D242A /* AppKitTrackMouse */;
+		activeTarget = 8D1107260486CEB800E47090 /* AppKitTrackMouse */;
+		addToTargets = (
+			8D1107260486CEB800E47090 /* AppKitTrackMouse */,
+		);
+		codeSenseManager = FD8D96AE0F2B6B81006D242A /* Code sense */;
+		executables = (
+			FD8D96A70F2B6B76006D242A /* AppKitTrackMouse */,
+		);
+		perUserDictionary = {
+			PBXPerProjectTemplateStateSaveDate = 254503798;
+			PBXWorkspaceStateSaveDate = 254503798;
+		};
+		sourceControlManager = FD8D96AD0F2B6B81006D242A /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	8D1107260486CEB800E47090 /* AppKitTrackMouse */ = {
+		activeExec = 0;
+		executables = (
+			FD8D96A70F2B6B76006D242A /* AppKitTrackMouse */,
+		);
+	};
+	FD8D96A70F2B6B76006D242A /* AppKitTrackMouse */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 1;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = AppKitTrackMouse;
+		sourceDirectories = (
+		);
+	};
+	FD8D96AD0F2B6B81006D242A /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+		};
+	};
+	FD8D96AE0F2B6B81006D242A /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+}

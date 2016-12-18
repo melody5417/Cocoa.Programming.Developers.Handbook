@@ -1,0 +1,7 @@
+//
+// Prefix header for all source files of the 'ToyBrowser' target in the 'ToyBrowser' project
+//
+
+#ifdef __OBJC__
+    #import <Cocoa/Cocoa.h>
+#endif

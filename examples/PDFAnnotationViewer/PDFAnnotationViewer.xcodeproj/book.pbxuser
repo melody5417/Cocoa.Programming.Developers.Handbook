@@ -1,0 +1,334 @@
+// !$*UTF8*$!
+{
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = FD8842340F55CA1B003CDACA /* PDFAnnotationViewer */;
+		activeTarget = 8D1107260486CEB800E47090 /* PDFAnnotationViewer */;
+		addToTargets = (
+			8D1107260486CEB800E47090 /* PDFAnnotationViewer */,
+		);
+		breakpoints = (
+		);
+		codeSenseManager = FD8842430F55CA1F003CDACA /* Code sense */;
+		executables = (
+			FD8842340F55CA1B003CDACA /* PDFAnnotationViewer */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					341,
+					20,
+					48.16259765625,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 257280539;
+			PBXWorkspaceStateSaveDate = 257280539;
+		};
+		perUserProjectItems = {
+			FD8842580F55CCE2003CDACA /* PBXTextBookmark */ = FD8842580F55CCE2003CDACA /* PBXTextBookmark */;
+			FD88425A0F55CCE2003CDACA /* PBXTextBookmark */ = FD88425A0F55CCE2003CDACA /* PBXTextBookmark */;
+			FD88425E0F55CCE2003CDACA /* PBXTextBookmark */ = FD88425E0F55CCE2003CDACA /* PBXTextBookmark */;
+			FD8842600F55CCE2003CDACA /* PBXTextBookmark */ = FD8842600F55CCE2003CDACA /* PBXTextBookmark */;
+			FD8842610F55CCE2003CDACA /* PBXTextBookmark */ = FD8842610F55CCE2003CDACA /* PBXTextBookmark */;
+			FD8842620F55CCE2003CDACA /* PBXTextBookmark */ = FD8842620F55CCE2003CDACA /* PBXTextBookmark */;
+			FD8842630F55CCE2003CDACA /* PBXTextBookmark */ = FD8842630F55CCE2003CDACA /* PBXTextBookmark */;
+			FD8842640F55CCE2003CDACA /* PBXTextBookmark */ = FD8842640F55CCE2003CDACA /* PBXTextBookmark */;
+			FD8842650F55CCE2003CDACA /* PBXTextBookmark */ = FD8842650F55CCE2003CDACA /* PBXTextBookmark */;
+			FD8842660F55CCE2003CDACA /* PBXTextBookmark */ = FD8842660F55CCE2003CDACA /* PBXTextBookmark */;
+			FD8842730F55CEBA003CDACA /* PBXTextBookmark */ = FD8842730F55CEBA003CDACA /* PBXTextBookmark */;
+			FD8842740F55CEBA003CDACA /* PBXTextBookmark */ = FD8842740F55CEBA003CDACA /* PBXTextBookmark */;
+			FD8842750F55CEBA003CDACA /* PBXTextBookmark */ = FD8842750F55CEBA003CDACA /* PBXTextBookmark */;
+			FD8842760F55CEBA003CDACA /* PBXTextBookmark */ = FD8842760F55CEBA003CDACA /* PBXTextBookmark */;
+			FD8842770F55CEBA003CDACA /* PBXTextBookmark */ = FD8842770F55CEBA003CDACA /* PBXTextBookmark */;
+			FD8842780F55CEBA003CDACA /* PBXTextBookmark */ = FD8842780F55CEBA003CDACA /* PBXTextBookmark */;
+			FD8842790F55CEBA003CDACA /* PBXTextBookmark */ = FD8842790F55CEBA003CDACA /* PBXTextBookmark */;
+			FD88427A0F55CEBA003CDACA /* PBXTextBookmark */ = FD88427A0F55CEBA003CDACA /* PBXTextBookmark */;
+			FD8842A40F55D1A8003CDACA /* PBXTextBookmark */ = FD8842A40F55D1A8003CDACA /* PBXTextBookmark */;
+		};
+		sourceControlManager = FD8842420F55CA1F003CDACA /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	8D1107260486CEB800E47090 /* PDFAnnotationViewer */ = {
+		activeExec = 0;
+		executables = (
+			FD8842340F55CA1B003CDACA /* PDFAnnotationViewer */,
+		);
+	};
+	FD8842340F55CA1B003CDACA /* PDFAnnotationViewer */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 1;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = PDFAnnotationViewer;
+		savedGlobals = {
+		};
+		sourceDirectories = (
+		);
+		variableFormatDictionary = {
+		};
+	};
+	FD8842420F55CA1F003CDACA /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+		};
+	};
+	FD8842430F55CA1F003CDACA /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	FD8842440F55CA34003CDACA /* AnnotationController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {519, 253}}";
+			sepNavSelRange = "{150, 0}";
+			sepNavVisRange = "{0, 213}";
+		};
+	};
+	FD8842450F55CA34003CDACA /* AnnotationController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {519, 658}}";
+			sepNavSelRange = "{791, 0}";
+			sepNavVisRange = "{517, 515}";
+		};
+	};
+	FD8842580F55CCE2003CDACA /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = FD8842590F55CCE2003CDACA /* PDFController.h */;
+		name = "PDFController.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 330;
+		vrLoc = 0;
+	};
+	FD8842590F55CCE2003CDACA /* PDFController.h */ = {
+		isa = PBXFileReference;
+		name = PDFController.h;
+		path = /Users/book/Desktop/PDFInspector/PDFController.h;
+		sourceTree = "<absolute>";
+	};
+	FD88425A0F55CCE2003CDACA /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = FD88425B0F55CCE2003CDACA /* PDFController.m */;
+		name = "PDFController.m: 5";
+		rLen = 702;
+		rLoc = 79;
+		rType = 0;
+		vrLen = 549;
+		vrLoc = 373;
+	};
+	FD88425B0F55CCE2003CDACA /* PDFController.m */ = {
+		isa = PBXFileReference;
+		name = PDFController.m;
+		path = /Users/book/Desktop/PDFInspector/PDFController.m;
+		sourceTree = "<absolute>";
+	};
+	FD88425E0F55CCE2003CDACA /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = FD88425F0F55CCE2003CDACA /* PDFController.m */;
+		name = "PDFController.m: 5";
+		rLen = 702;
+		rLoc = 79;
+		rType = 0;
+		vrLen = 549;
+		vrLoc = 373;
+	};
+	FD88425F0F55CCE2003CDACA /* PDFController.m */ = {
+		isa = PBXFileReference;
+		name = PDFController.m;
+		path = /Users/book/Desktop/PDFInspector/PDFController.m;
+		sourceTree = "<absolute>";
+	};
+	FD8842600F55CCE2003CDACA /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = FD8842440F55CA34003CDACA /* AnnotationController.h */;
+		name = "AnnotationController.h: 4";
+		rLen = 0;
+		rLoc = 175;
+		rType = 0;
+		vrLen = 79;
+		vrLoc = 0;
+	};
+	FD8842610F55CCE2003CDACA /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = FD8842450F55CA34003CDACA /* AnnotationController.m */;
+		name = "AnnotationController.m: 27";
+		rLen = 0;
+		rLoc = 1234;
+		rType = 0;
+		vrLen = 501;
+		vrLoc = 277;
+	};
+	FD8842620F55CCE2003CDACA /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = FD8842440F55CA34003CDACA /* AnnotationController.h */;
+		name = "AnnotationController.h: 6";
+		rLen = 0;
+		rLoc = 175;
+		rType = 0;
+		vrLen = 153;
+		vrLoc = 0;
+	};
+	FD8842630F55CCE2003CDACA /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = FD8842450F55CA34003CDACA /* AnnotationController.m */;
+		name = "AnnotationController.m: 25";
+		rLen = 0;
+		rLoc = 1234;
+		rType = 0;
+		vrLen = 573;
+		vrLoc = 0;
+	};
+	FD8842640F55CCE2003CDACA /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = FD8842440F55CA34003CDACA /* AnnotationController.h */;
+		name = "AnnotationController.h: 6";
+		rLen = 0;
+		rLoc = 151;
+		rType = 0;
+		vrLen = 181;
+		vrLoc = 0;
+	};
+	FD8842650F55CCE2003CDACA /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = FD8842450F55CA34003CDACA /* AnnotationController.m */;
+		name = "AnnotationController.m: 13";
+		rLen = 29;
+		rLoc = 299;
+		rType = 0;
+		vrLen = 521;
+		vrLoc = 193;
+	};
+	FD8842660F55CCE2003CDACA /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = FD8842440F55CA34003CDACA /* AnnotationController.h */;
+		name = "AnnotationController.h: 9";
+		rLen = 0;
+		rLoc = 207;
+		rType = 0;
+		vrLen = 210;
+		vrLoc = 0;
+	};
+	FD8842730F55CEBA003CDACA /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = FD8842440F55CA34003CDACA /* AnnotationController.h */;
+		name = "AnnotationController.h: 6";
+		rLen = 0;
+		rLoc = 150;
+		rType = 0;
+		vrLen = 213;
+		vrLoc = 0;
+	};
+	FD8842740F55CEBA003CDACA /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = FD8842450F55CA34003CDACA /* AnnotationController.m */;
+		name = "AnnotationController.m: 35";
+		rLen = 0;
+		rLoc = 1232;
+		rType = 0;
+		vrLen = 466;
+		vrLoc = 517;
+	};
+	FD8842750F55CEBA003CDACA /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = FD8842450F55CA34003CDACA /* AnnotationController.m */;
+		name = "AnnotationController.m: 35";
+		rLen = 0;
+		rLoc = 1232;
+		rType = 0;
+		vrLen = 390;
+		vrLoc = 569;
+	};
+	FD8842760F55CEBA003CDACA /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = FD8842440F55CA34003CDACA /* AnnotationController.h */;
+		name = "AnnotationController.h: 9";
+		rLen = 0;
+		rLoc = 207;
+		rType = 0;
+		vrLen = 210;
+		vrLoc = 0;
+	};
+	FD8842770F55CEBA003CDACA /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = FD8842450F55CA34003CDACA /* AnnotationController.m */;
+		name = "AnnotationController.m: 35";
+		rLen = 0;
+		rLoc = 1232;
+		rType = 0;
+		vrLen = 395;
+		vrLoc = 569;
+	};
+	FD8842780F55CEBA003CDACA /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = FD8842440F55CA34003CDACA /* AnnotationController.h */;
+		name = "AnnotationController.h: 6";
+		rLen = 0;
+		rLoc = 150;
+		rType = 0;
+		vrLen = 211;
+		vrLoc = 0;
+	};
+	FD8842790F55CEBA003CDACA /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = FD8842450F55CA34003CDACA /* AnnotationController.m */;
+		name = "AnnotationController.m: 35";
+		rLen = 0;
+		rLoc = 1232;
+		rType = 0;
+		vrLen = 466;
+		vrLoc = 517;
+	};
+	FD88427A0F55CEBA003CDACA /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = FD8842440F55CA34003CDACA /* AnnotationController.h */;
+		name = "AnnotationController.h: 6";
+		rLen = 0;
+		rLoc = 150;
+		rType = 0;
+		vrLen = 213;
+		vrLoc = 0;
+	};
+	FD8842A40F55D1A8003CDACA /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = FD8842450F55CA34003CDACA /* AnnotationController.m */;
+		name = "AnnotationController.m: 27";
+		rLen = 0;
+		rLoc = 791;
+		rType = 0;
+		vrLen = 515;
+		vrLoc = 517;
+	};
+}

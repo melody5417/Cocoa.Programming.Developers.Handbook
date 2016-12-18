@@ -1,0 +1,436 @@
+// !$*UTF8*$!
+{
+	089C165DFE840E0CC02AAC07 /* English */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {519, 253}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 45}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = FDAB30DA0F335D0300854DAC /* MeetingViewer */;
+		activeTarget = 8D1107260486CEB800E47090 /* MeetingViewer */;
+		addToTargets = (
+			8D1107260486CEB800E47090 /* MeetingViewer */,
+		);
+		breakpoints = (
+		);
+		codeSenseManager = FDAB30E00F335D0700854DAC /* Code sense */;
+		executables = (
+			FDAB30DA0F335D0300854DAC /* MeetingViewer */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					341,
+					20,
+					48.16259765625,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 255024387;
+			PBXWorkspaceStateSaveDate = 255024387;
+		};
+		perUserProjectItems = {
+			FDAB312B0F33636B00854DAC /* PBXTextBookmark */ = FDAB312B0F33636B00854DAC /* PBXTextBookmark */;
+			FDAB312D0F33636B00854DAC /* PBXTextBookmark */ = FDAB312D0F33636B00854DAC /* PBXTextBookmark */;
+			FDAB312F0F33636B00854DAC /* PBXTextBookmark */ = FDAB312F0F33636B00854DAC /* PBXTextBookmark */;
+			FDAB31310F33636B00854DAC /* PBXTextBookmark */ = FDAB31310F33636B00854DAC /* PBXTextBookmark */;
+			FDAB31340F33636B00854DAC /* PBXTextBookmark */ = FDAB31340F33636B00854DAC /* PBXTextBookmark */;
+			FDAB31360F33636B00854DAC /* PBXTextBookmark */ = FDAB31360F33636B00854DAC /* PBXTextBookmark */;
+			FDAB31380F33636B00854DAC /* PBXTextBookmark */ = FDAB31380F33636B00854DAC /* PBXTextBookmark */;
+			FDAB313A0F33636B00854DAC /* PBXTextBookmark */ = FDAB313A0F33636B00854DAC /* PBXTextBookmark */;
+			FDAB313B0F33636B00854DAC /* PBXTextBookmark */ = FDAB313B0F33636B00854DAC /* PBXTextBookmark */;
+			FDAB313C0F33636B00854DAC /* PBXTextBookmark */ = FDAB313C0F33636B00854DAC /* PBXTextBookmark */;
+			FDAB313D0F33636B00854DAC /* PBXTextBookmark */ = FDAB313D0F33636B00854DAC /* PBXTextBookmark */;
+			FDAB313E0F33636B00854DAC /* PBXTextBookmark */ = FDAB313E0F33636B00854DAC /* PBXTextBookmark */;
+			FDAB313F0F33636B00854DAC /* PBXTextBookmark */ = FDAB313F0F33636B00854DAC /* PBXTextBookmark */;
+			FDAB31400F33636B00854DAC /* PBXTextBookmark */ = FDAB31400F33636B00854DAC /* PBXTextBookmark */;
+			FDAB31410F33636B00854DAC /* PBXTextBookmark */ = FDAB31410F33636B00854DAC /* PBXTextBookmark */;
+			FDAB31420F33636B00854DAC /* PBXTextBookmark */ = FDAB31420F33636B00854DAC /* PBXTextBookmark */;
+			FDAB31430F33636B00854DAC /* PBXTextBookmark */ = FDAB31430F33636B00854DAC /* PBXTextBookmark */;
+			FDAB31440F33636B00854DAC /* PBXTextBookmark */ = FDAB31440F33636B00854DAC /* PBXTextBookmark */;
+			FDAB31450F33636B00854DAC /* PBXTextBookmark */ = FDAB31450F33636B00854DAC /* PBXTextBookmark */;
+			FDAB31890F33698200854DAC /* PBXTextBookmark */ = FDAB31890F33698200854DAC /* PBXTextBookmark */;
+			FDAB318A0F33698200854DAC /* PBXTextBookmark */ = FDAB318A0F33698200854DAC /* PBXTextBookmark */;
+			FDAB31940F336A8900854DAC /* PBXTextBookmark */ = FDAB31940F336A8900854DAC /* PBXTextBookmark */;
+			FDAB31950F336A8900854DAC /* PBXTextBookmark */ = FDAB31950F336A8900854DAC /* PBXTextBookmark */;
+			FDAB31960F336A8900854DAC /* PBXTextBookmark */ = FDAB31960F336A8900854DAC /* PBXTextBookmark */;
+			FDAB31970F336A8900854DAC /* PBXTextBookmark */ = FDAB31970F336A8900854DAC /* PBXTextBookmark */;
+			FDAB31A50F336D0800854DAC /* PBXTextBookmark */ = FDAB31A50F336D0800854DAC /* PBXTextBookmark */;
+		};
+		sourceControlManager = FDAB30DF0F335D0700854DAC /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	8D1107260486CEB800E47090 /* MeetingViewer */ = {
+		activeExec = 0;
+		executables = (
+			FDAB30DA0F335D0300854DAC /* MeetingViewer */,
+		);
+	};
+	FDAB30DA0F335D0300854DAC /* MeetingViewer */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 1;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = MeetingViewer;
+		savedGlobals = {
+		};
+		sourceDirectories = (
+		);
+		variableFormatDictionary = {
+		};
+	};
+	FDAB30DF0F335D0700854DAC /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+		};
+	};
+	FDAB30E00F335D0700854DAC /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	FDAB311D0F335E3600854DAC /* MeetingController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {519, 253}}";
+			sepNavSelRange = "{152, 0}";
+			sepNavVisRange = "{0, 195}";
+		};
+	};
+	FDAB311E0F335E3600854DAC /* MeetingController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {630, 700}}";
+			sepNavSelRange = "{384, 0}";
+			sepNavVisRange = "{70, 637}";
+		};
+	};
+	FDAB312B0F33636B00854DAC /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = FDAB312C0F33636B00854DAC /* Collaboration.h */;
+		name = "Collaboration.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 240;
+		vrLoc = 0;
+	};
+	FDAB312C0F33636B00854DAC /* Collaboration.h */ = {
+		isa = PBXFileReference;
+		name = Collaboration.h;
+		path = /System/Library/Frameworks/Collaboration.framework/Versions/A/Headers/Collaboration.h;
+		sourceTree = "<absolute>";
+	};
+	FDAB312D0F33636B00854DAC /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = FDAB312E0F33636B00854DAC /* CBIdentityPicker.h */;
+		name = "CBIdentityPicker.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 836;
+		vrLoc = 689;
+	};
+	FDAB312E0F33636B00854DAC /* CBIdentityPicker.h */ = {
+		isa = PBXFileReference;
+		name = CBIdentityPicker.h;
+		path = /System/Library/Frameworks/Collaboration.framework/Versions/A/Headers/CBIdentityPicker.h;
+		sourceTree = "<absolute>";
+	};
+	FDAB312F0F33636B00854DAC /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = FDAB31300F33636B00854DAC /* CBIdentity.h */;
+		name = "CBIdentity.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 469;
+		vrLoc = 3209;
+	};
+	FDAB31300F33636B00854DAC /* CBIdentity.h */ = {
+		isa = PBXFileReference;
+		name = CBIdentity.h;
+		path = /System/Library/Frameworks/Collaboration.framework/Versions/A/Headers/CBIdentity.h;
+		sourceTree = "<absolute>";
+	};
+	FDAB31310F33636B00854DAC /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 089C165DFE840E0CC02AAC07 /* English */;
+		name = "InfoPlist.strings: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 45;
+		vrLoc = 0;
+	};
+	FDAB31340F33636B00854DAC /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = FDAB31350F33636B00854DAC /* Collaboration.h */;
+		name = "Collaboration.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 240;
+		vrLoc = 0;
+	};
+	FDAB31350F33636B00854DAC /* Collaboration.h */ = {
+		isa = PBXFileReference;
+		name = Collaboration.h;
+		path = /System/Library/Frameworks/Collaboration.framework/Versions/A/Headers/Collaboration.h;
+		sourceTree = "<absolute>";
+	};
+	FDAB31360F33636B00854DAC /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = FDAB31370F33636B00854DAC /* CBIdentityPicker.h */;
+		name = "CBIdentityPicker.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 836;
+		vrLoc = 689;
+	};
+	FDAB31370F33636B00854DAC /* CBIdentityPicker.h */ = {
+		isa = PBXFileReference;
+		name = CBIdentityPicker.h;
+		path = /System/Library/Frameworks/Collaboration.framework/Versions/A/Headers/CBIdentityPicker.h;
+		sourceTree = "<absolute>";
+	};
+	FDAB31380F33636B00854DAC /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = FDAB31390F33636B00854DAC /* CBIdentity.h */;
+		name = "CBIdentity.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 469;
+		vrLoc = 3209;
+	};
+	FDAB31390F33636B00854DAC /* CBIdentity.h */ = {
+		isa = PBXFileReference;
+		name = CBIdentity.h;
+		path = /System/Library/Frameworks/Collaboration.framework/Versions/A/Headers/CBIdentity.h;
+		sourceTree = "<absolute>";
+	};
+	FDAB313A0F33636B00854DAC /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 089C165DFE840E0CC02AAC07 /* English */;
+		name = "InfoPlist.strings: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 45;
+		vrLoc = 0;
+	};
+	FDAB313B0F33636B00854DAC /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = FDAB311D0F335E3600854DAC /* MeetingController.h */;
+		name = "MeetingController.h: 8";
+		rLen = 0;
+		rLoc = 190;
+		rType = 0;
+		vrLen = 219;
+		vrLoc = 0;
+	};
+	FDAB313C0F33636B00854DAC /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = FDAB311E0F335E3600854DAC /* MeetingController.m */;
+		name = "MeetingController.m: 6";
+		rLen = 0;
+		rLoc = 1734;
+		rType = 0;
+		vrLen = 147;
+		vrLoc = 0;
+	};
+	FDAB313D0F33636B00854DAC /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = FDAB311D0F335E3600854DAC /* MeetingController.h */;
+		name = "MeetingController.h: 5";
+		rLen = 18;
+		rLoc = 120;
+		rType = 0;
+		vrLen = 219;
+		vrLoc = 0;
+	};
+	FDAB313E0F33636B00854DAC /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = FDAB311E0F335E3600854DAC /* MeetingController.m */;
+		name = "MeetingController.m: 7";
+		rLen = 0;
+		rLoc = 832;
+		rType = 0;
+		vrLen = 270;
+		vrLoc = 0;
+	};
+	FDAB313F0F33636B00854DAC /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = FDAB311D0F335E3600854DAC /* MeetingController.h */;
+		name = "MeetingController.h: 2";
+		rLen = 0;
+		rLoc = 65;
+		rType = 0;
+		vrLen = 226;
+		vrLoc = 0;
+	};
+	FDAB31400F33636B00854DAC /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = FDAB311E0F335E3600854DAC /* MeetingController.m */;
+		name = "MeetingController.m: 9";
+		rLen = 0;
+		rLoc = 1636;
+		rType = 0;
+		vrLen = 290;
+		vrLoc = 0;
+	};
+	FDAB31410F33636B00854DAC /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = FDAB311D0F335E3600854DAC /* MeetingController.h */;
+		name = "MeetingController.h: 2";
+		rLen = 0;
+		rLoc = 65;
+		rType = 0;
+		vrLen = 226;
+		vrLoc = 0;
+	};
+	FDAB31420F33636B00854DAC /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = FDAB311E0F335E3600854DAC /* MeetingController.m */;
+		name = "MeetingController.m: 10";
+		rLen = 11;
+		rLoc = 362;
+		rType = 0;
+		vrLen = 706;
+		vrLoc = 30;
+	};
+	FDAB31430F33636B00854DAC /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = FDAB311D0F335E3600854DAC /* MeetingController.h */;
+		name = "MeetingController.h: 2";
+		rLen = 0;
+		rLoc = 65;
+		rType = 0;
+		vrLen = 226;
+		vrLoc = 0;
+	};
+	FDAB31440F33636B00854DAC /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = FDAB311E0F335E3600854DAC /* MeetingController.m */;
+		name = "MeetingController.m: 17";
+		rLen = 0;
+		rLoc = 762;
+		rType = 0;
+		vrLen = 765;
+		vrLoc = 420;
+	};
+	FDAB31450F33636B00854DAC /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = FDAB311D0F335E3600854DAC /* MeetingController.h */;
+		name = "MeetingController.h: 8";
+		rLen = 0;
+		rLoc = 190;
+		rType = 0;
+		vrLen = 188;
+		vrLoc = 0;
+	};
+	FDAB31890F33698200854DAC /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = FDAB311E0F335E3600854DAC /* MeetingController.m */;
+		name = "MeetingController.m: 28";
+		rLen = 0;
+		rLoc = 1438;
+		rType = 0;
+		vrLen = 591;
+		vrLoc = 641;
+	};
+	FDAB318A0F33698200854DAC /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = FDAB311D0F335E3600854DAC /* MeetingController.h */;
+		name = "MeetingController.h: 6";
+		rLen = 0;
+		rLoc = 171;
+		rType = 0;
+		vrLen = 195;
+		vrLoc = 0;
+	};
+	FDAB31940F336A8900854DAC /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = FDAB311D0F335E3600854DAC /* MeetingController.h */;
+		name = "MeetingController.h: 6";
+		rLen = 0;
+		rLoc = 152;
+		rType = 0;
+		vrLen = 195;
+		vrLoc = 0;
+	};
+	FDAB31950F336A8900854DAC /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = FDAB311E0F335E3600854DAC /* MeetingController.m */;
+		name = "MeetingController.m: 37";
+		rLen = 0;
+		rLoc = 1442;
+		rType = 0;
+		vrLen = 650;
+		vrLoc = 861;
+	};
+	FDAB31960F336A8900854DAC /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = FDAB311E0F335E3600854DAC /* MeetingController.m */;
+		name = "MeetingController.m: 37";
+		rLen = 0;
+		rLoc = 1442;
+		rType = 0;
+		vrLen = 650;
+		vrLoc = 861;
+	};
+	FDAB31970F336A8900854DAC /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = FDAB311D0F335E3600854DAC /* MeetingController.h */;
+		name = "MeetingController.h: 6";
+		rLen = 0;
+		rLoc = 152;
+		rType = 0;
+		vrLen = 195;
+		vrLoc = 0;
+	};
+	FDAB31A50F336D0800854DAC /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = FDAB311E0F335E3600854DAC /* MeetingController.m */;
+		name = "MeetingController.m: 12";
+		rLen = 0;
+		rLoc = 384;
+		rType = 0;
+		vrLen = 637;
+		vrLoc = 70;
+	};
+}

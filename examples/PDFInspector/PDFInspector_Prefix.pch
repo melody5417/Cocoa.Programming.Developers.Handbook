@@ -1,0 +1,7 @@
+//
+// Prefix header for all source files of the 'PDFInspector' target in the 'PDFInspector' project
+//
+
+#ifdef __OBJC__
+    #import <Cocoa/Cocoa.h>
+#endif

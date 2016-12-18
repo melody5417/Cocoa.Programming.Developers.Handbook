@@ -1,0 +1,87 @@
+// !$*UTF8*$!
+{
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = FD3755F50F54504200D88257 /* SimpleWebKitBrowser */;
+		activeTarget = 8D1107260486CEB800E47090 /* SimpleWebKitBrowser */;
+		addToTargets = (
+			8D1107260486CEB800E47090 /* SimpleWebKitBrowser */,
+		);
+		codeSenseManager = FD3756070F54505600D88257 /* Code sense */;
+		executables = (
+			FD3755F50F54504200D88257 /* SimpleWebKitBrowser */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					341,
+					20,
+					48.16259765625,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 257183810;
+			PBXWorkspaceStateSaveDate = 257183810;
+		};
+		sourceControlManager = FD3756060F54505600D88257 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	8D1107260486CEB800E47090 /* SimpleWebKitBrowser */ = {
+		activeExec = 0;
+		executables = (
+			FD3755F50F54504200D88257 /* SimpleWebKitBrowser */,
+		);
+	};
+	FD3755F50F54504200D88257 /* SimpleWebKitBrowser */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 1;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = SimpleWebKitBrowser;
+		savedGlobals = {
+		};
+		sourceDirectories = (
+		);
+	};
+	FD3756060F54505600D88257 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+		};
+	};
+	FD3756070F54505600D88257 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+}

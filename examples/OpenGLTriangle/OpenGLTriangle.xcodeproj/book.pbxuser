@@ -1,0 +1,169 @@
+// !$*UTF8*$!
+{
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = FD9BBE310F59AF940044390C /* OpenGLTriangle */;
+		activeTarget = 8D1107260486CEB800E47090 /* OpenGLTriangle */;
+		addToTargets = (
+			8D1107260486CEB800E47090 /* OpenGLTriangle */,
+		);
+		codeSenseManager = FD9BBE390F59AF9C0044390C /* Code sense */;
+		executables = (
+			FD9BBE310F59AF940044390C /* OpenGLTriangle */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					341,
+					20,
+					48.16259765625,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 257535892;
+			PBXWorkspaceStateSaveDate = 257535892;
+		};
+		perUserProjectItems = {
+			FD9BBE490F59B0F80044390C /* PBXTextBookmark */ = FD9BBE490F59B0F80044390C /* PBXTextBookmark */;
+			FD9BBE4A0F59B0F80044390C /* PBXTextBookmark */ = FD9BBE4A0F59B0F80044390C /* PBXTextBookmark */;
+			FD9BBE4B0F59B0F80044390C /* PBXTextBookmark */ = FD9BBE4B0F59B0F80044390C /* PBXTextBookmark */;
+			FD9BBE4C0F59B0F80044390C /* PBXTextBookmark */ = FD9BBE4C0F59B0F80044390C /* PBXTextBookmark */;
+			FD9BBE4D0F59B0F80044390C /* PBXTextBookmark */ = FD9BBE4D0F59B0F80044390C /* PBXTextBookmark */;
+			FD9BBE4E0F59B0F80044390C /* PBXTextBookmark */ = FD9BBE4E0F59B0F80044390C /* PBXTextBookmark */;
+		};
+		sourceControlManager = FD9BBE380F59AF9C0044390C /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	8D1107260486CEB800E47090 /* OpenGLTriangle */ = {
+		activeExec = 0;
+		executables = (
+			FD9BBE310F59AF940044390C /* OpenGLTriangle */,
+		);
+	};
+	FD9BBE310F59AF940044390C /* OpenGLTriangle */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 1;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = OpenGLTriangle;
+		savedGlobals = {
+		};
+		sourceDirectories = (
+		);
+	};
+	FD9BBE380F59AF9C0044390C /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+		};
+	};
+	FD9BBE390F59AF9C0044390C /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	FD9BBE3A0F59AFE90044390C /* TriangleGLView.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {519, 253}}";
+			sepNavSelRange = "{61, 0}";
+			sepNavVisRange = "{0, 76}";
+		};
+	};
+	FD9BBE3B0F59AFE90044390C /* TriangleGLView.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {519, 308}}";
+			sepNavSelRange = "{292, 0}";
+			sepNavVisRange = "{27, 373}";
+		};
+	};
+	FD9BBE490F59B0F80044390C /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = FD9BBE3A0F59AFE90044390C /* TriangleGLView.h */;
+		name = "TriangleGLView.h: 3";
+		rLen = 0;
+		rLoc = 61;
+		rType = 0;
+		vrLen = 76;
+		vrLoc = 0;
+	};
+	FD9BBE4A0F59B0F80044390C /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = FD9BBE3B0F59AFE90044390C /* TriangleGLView.m */;
+		name = "TriangleGLView.m: 11";
+		rLen = 0;
+		rLoc = 234;
+		rType = 0;
+		vrLen = 405;
+		vrLoc = 0;
+	};
+	FD9BBE4B0F59B0F80044390C /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = FD9BBE3A0F59AFE90044390C /* TriangleGLView.h */;
+		name = "TriangleGLView.h: 3";
+		rLen = 0;
+		rLoc = 67;
+		rType = 0;
+		vrLen = 70;
+		vrLoc = 0;
+	};
+	FD9BBE4C0F59B0F80044390C /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = FD9BBE3B0F59AFE90044390C /* TriangleGLView.m */;
+		name = "TriangleGLView.m: 11";
+		rLen = 0;
+		rLoc = 234;
+		rType = 0;
+		vrLen = 405;
+		vrLoc = 0;
+	};
+	FD9BBE4D0F59B0F80044390C /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = FD9BBE3A0F59AFE90044390C /* TriangleGLView.h */;
+		name = "TriangleGLView.h: 3";
+		rLen = 0;
+		rLoc = 61;
+		rType = 0;
+		vrLen = 76;
+		vrLoc = 0;
+	};
+	FD9BBE4E0F59B0F80044390C /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = FD9BBE3B0F59AFE90044390C /* TriangleGLView.m */;
+		name = "TriangleGLView.m: 13";
+		rLen = 0;
+		rLoc = 292;
+		rType = 0;
+		vrLen = 373;
+		vrLoc = 27;
+	};
+}

@@ -1,0 +1,217 @@
+// !$*UTF8*$!
+{
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = FD7F6ACD0F48825F0025214C /* DetachTabs */;
+		activeTarget = 8D1107260486CEB800E47090 /* DetachTabs */;
+		addToTargets = (
+			8D1107260486CEB800E47090 /* DetachTabs */,
+		);
+		breakpoints = (
+		);
+		codeSenseManager = FD7F6AD40F48826C0025214C /* Code sense */;
+		executables = (
+			FD7F6ACD0F48825F0025214C /* DetachTabs */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					341,
+					20,
+					48.16259765625,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 256410207;
+			PBXWorkspaceStateSaveDate = 256410207;
+		};
+		perUserProjectItems = {
+			FD7F6AE80F48871A0025214C /* PBXTextBookmark */ = FD7F6AE80F48871A0025214C /* PBXTextBookmark */;
+			FD7F6AE90F48871A0025214C /* PBXTextBookmark */ = FD7F6AE90F48871A0025214C /* PBXTextBookmark */;
+			FD7F6AEA0F48871A0025214C /* PBXTextBookmark */ = FD7F6AEA0F48871A0025214C /* PBXTextBookmark */;
+			FD7F6AEB0F48871A0025214C /* PBXTextBookmark */ = FD7F6AEB0F48871A0025214C /* PBXTextBookmark */;
+			FD7F6AEC0F48871A0025214C /* PBXTextBookmark */ = FD7F6AEC0F48871A0025214C /* PBXTextBookmark */;
+			FD7F6AED0F48871A0025214C /* PBXTextBookmark */ = FD7F6AED0F48871A0025214C /* PBXTextBookmark */;
+			FD7F6AEE0F48871A0025214C /* PBXTextBookmark */ = FD7F6AEE0F48871A0025214C /* PBXTextBookmark */;
+			FD7F6AEF0F48871A0025214C /* PBXTextBookmark */ = FD7F6AEF0F48871A0025214C /* PBXTextBookmark */;
+			FD7F6AF00F48871A0025214C /* PBXTextBookmark */ = FD7F6AF00F48871A0025214C /* PBXTextBookmark */;
+			FD7F6B0B0F4887E10025214C /* PBXTextBookmark */ = FD7F6B0B0F4887E10025214C /* PBXTextBookmark */;
+		};
+		sourceControlManager = FD7F6AD30F48826C0025214C /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	8D1107260486CEB800E47090 /* DetachTabs */ = {
+		activeExec = 0;
+		executables = (
+			FD7F6ACD0F48825F0025214C /* DetachTabs */,
+		);
+	};
+	FD7F6ACD0F48825F0025214C /* DetachTabs */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 1;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = DetachTabs;
+		savedGlobals = {
+		};
+		sourceDirectories = (
+		);
+		variableFormatDictionary = {
+		};
+	};
+	FD7F6AD00F48826B0025214C /* TabDetacher.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {519, 253}}";
+			sepNavSelRange = "{91, 0}";
+			sepNavVisRange = "{0, 170}";
+		};
+	};
+	FD7F6AD10F48826B0025214C /* TabDetacher.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {534, 826}}";
+			sepNavSelRange = "{533, 0}";
+			sepNavVisRange = "{972, 439}";
+		};
+	};
+	FD7F6AD30F48826C0025214C /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+		};
+	};
+	FD7F6AD40F48826C0025214C /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	FD7F6AE80F48871A0025214C /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = FD7F6AD00F48826B0025214C /* TabDetacher.h */;
+		name = "TabDetacher.h: 5";
+		rLen = 0;
+		rLoc = 91;
+		rType = 0;
+		vrLen = 170;
+		vrLoc = 0;
+	};
+	FD7F6AE90F48871A0025214C /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = FD7F6AD10F48826B0025214C /* TabDetacher.m */;
+		name = "TabDetacher.m: 14";
+		rLen = 0;
+		rLoc = 971;
+		rType = 0;
+		vrLen = 328;
+		vrLoc = 0;
+	};
+	FD7F6AEA0F48871A0025214C /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = FD7F6AD00F48826B0025214C /* TabDetacher.h */;
+		name = "TabDetacher.h: 6";
+		rLen = 72;
+		rLoc = 93;
+		rType = 0;
+		vrLen = 170;
+		vrLoc = 0;
+	};
+	FD7F6AEB0F48871A0025214C /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = FD7F6AD10F48826B0025214C /* TabDetacher.m */;
+		name = "TabDetacher.m: 7";
+		rLen = 0;
+		rLoc = 971;
+		rType = 0;
+		vrLen = 189;
+		vrLoc = 0;
+	};
+	FD7F6AEC0F48871A0025214C /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = FD7F6AD00F48826B0025214C /* TabDetacher.h */;
+		name = "TabDetacher.h: 6";
+		rLen = 72;
+		rLoc = 93;
+		rType = 0;
+		vrLen = 170;
+		vrLoc = 0;
+	};
+	FD7F6AED0F48871A0025214C /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = FD7F6AD10F48826B0025214C /* TabDetacher.m */;
+		name = "TabDetacher.m: 14";
+		rLen = 0;
+		rLoc = 971;
+		rType = 0;
+		vrLen = 328;
+		vrLoc = 0;
+	};
+	FD7F6AEE0F48871A0025214C /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = FD7F6AD00F48826B0025214C /* TabDetacher.h */;
+		name = "TabDetacher.h: 5";
+		rLen = 0;
+		rLoc = 91;
+		rType = 0;
+		vrLen = 201;
+		vrLoc = 0;
+	};
+	FD7F6AEF0F48871A0025214C /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = FD7F6AD10F48826B0025214C /* TabDetacher.m */;
+		name = "TabDetacher.m: 14";
+		rLen = 0;
+		rLoc = 971;
+		rType = 0;
+		vrLen = 328;
+		vrLoc = 0;
+	};
+	FD7F6AF00F48871A0025214C /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = FD7F6AD00F48826B0025214C /* TabDetacher.h */;
+		name = "TabDetacher.h: 5";
+		rLen = 0;
+		rLoc = 91;
+		rType = 0;
+		vrLen = 170;
+		vrLoc = 0;
+	};
+	FD7F6B0B0F4887E10025214C /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = FD7F6AD10F48826B0025214C /* TabDetacher.m */;
+		name = "TabDetacher.m: 23";
+		rLen = 0;
+		rLoc = 533;
+		rType = 0;
+		vrLen = 439;
+		vrLoc = 972;
+	};
+}

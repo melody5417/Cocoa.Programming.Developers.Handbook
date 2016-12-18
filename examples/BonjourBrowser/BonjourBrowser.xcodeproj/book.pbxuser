@@ -1,0 +1,162 @@
+// !$*UTF8*$!
+{
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = FDAB31E40F34C00D00854DAC /* BonjourBrowser */;
+		activeTarget = 8D1107260486CEB800E47090 /* BonjourBrowser */;
+		addToTargets = (
+			8D1107260486CEB800E47090 /* BonjourBrowser */,
+		);
+		breakpoints = (
+		);
+		codeSenseManager = FDAB31EC0F34C01100854DAC /* Code sense */;
+		executables = (
+			FDAB31E40F34C00D00854DAC /* BonjourBrowser */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					465,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 255116928;
+			PBXWorkspaceStateSaveDate = 255116928;
+		};
+		perUserProjectItems = {
+			FD790C970F34C6BC0057FF35 /* PBXTextBookmark */ = FD790C970F34C6BC0057FF35 /* PBXTextBookmark */;
+			FDAB31FB0F34C2D300854DAC /* PBXTextBookmark */ = FDAB31FB0F34C2D300854DAC /* PBXTextBookmark */;
+			FDAB31FE0F34C2D300854DAC /* PBXTextBookmark */ = FDAB31FE0F34C2D300854DAC /* PBXTextBookmark */;
+			FDAB32230F34C44F00854DAC /* PBXTextBookmark */ = FDAB32230F34C44F00854DAC /* PBXTextBookmark */;
+			FDAB322D0F34C4FC00854DAC /* PBXTextBookmark */ = FDAB322D0F34C4FC00854DAC /* PBXTextBookmark */;
+		};
+		sourceControlManager = FDAB31EB0F34C01100854DAC /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	8D1107260486CEB800E47090 /* BonjourBrowser */ = {
+		activeExec = 0;
+		executables = (
+			FDAB31E40F34C00D00854DAC /* BonjourBrowser */,
+		);
+	};
+	FD790C970F34C6BC0057FF35 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = FDAB31EE0F34C04D00854DAC /* BrowserController.m */;
+		name = "BrowserController.m: 27";
+		rLen = 0;
+		rLoc = 795;
+		rType = 0;
+		vrLen = 320;
+		vrLoc = 674;
+	};
+	FDAB31E40F34C00D00854DAC /* BonjourBrowser */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 1;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = BonjourBrowser;
+		savedGlobals = {
+		};
+		sourceDirectories = (
+		);
+		variableFormatDictionary = {
+		};
+	};
+	FDAB31EB0F34C01100854DAC /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+		};
+	};
+	FDAB31EC0F34C01100854DAC /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	FDAB31ED0F34C04D00854DAC /* BrowserController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {643, 271}}";
+			sepNavSelRange = "{210, 0}";
+			sepNavVisRange = "{0, 216}";
+		};
+	};
+	FDAB31EE0F34C04D00854DAC /* BrowserController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {643, 602}}";
+			sepNavSelRange = "{795, 0}";
+			sepNavVisRange = "{674, 320}";
+		};
+	};
+	FDAB31FB0F34C2D300854DAC /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = FDAB31ED0F34C04D00854DAC /* BrowserController.h */;
+		name = "BrowserController.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 237;
+		vrLoc = 0;
+	};
+	FDAB31FE0F34C2D300854DAC /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = FDAB31EE0F34C04D00854DAC /* BrowserController.m */;
+		name = "BrowserController.m: 28";
+		rLen = 0;
+		rLoc = 579;
+		rType = 0;
+		vrLen = 336;
+		vrLoc = 652;
+	};
+	FDAB32230F34C44F00854DAC /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = FDAB31ED0F34C04D00854DAC /* BrowserController.h */;
+		name = "BrowserController.h: 8";
+		rLen = 0;
+		rLoc = 211;
+		rType = 0;
+		vrLen = 216;
+		vrLoc = 0;
+	};
+	FDAB322D0F34C4FC00854DAC /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = FDAB31EE0F34C04D00854DAC /* BrowserController.m */;
+		name = "BrowserController.m: 27";
+		rLen = 0;
+		rLoc = 579;
+		rType = 0;
+		vrLen = 550;
+		vrLoc = 385;
+	};
+}

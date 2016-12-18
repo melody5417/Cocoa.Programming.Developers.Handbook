@@ -1,0 +1,7 @@
+//
+// Prefix header for all source files of the 'FontFactory' target in the 'FontFactory' project
+//
+
+#ifdef __OBJC__
+    #import <Cocoa/Cocoa.h>
+#endif

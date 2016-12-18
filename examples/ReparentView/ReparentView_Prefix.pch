@@ -1,0 +1,7 @@
+//
+// Prefix header for all source files of the 'ReparentView' target in the 'ReparentView' project
+//
+
+#ifdef __OBJC__
+    #import <Cocoa/Cocoa.h>
+#endif

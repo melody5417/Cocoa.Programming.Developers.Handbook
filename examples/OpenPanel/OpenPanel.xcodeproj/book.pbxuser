@@ -1,0 +1,62 @@
+// !$*UTF8*$!
+{
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = FD1798DF0F4F08730037AA3C /* OpenPanel */;
+		activeTarget = 8D1107260486CEB800E47090 /* OpenPanel */;
+		addToTargets = (
+			8D1107260486CEB800E47090 /* OpenPanel */,
+		);
+		codeSenseManager = FD1798E60F4F08810037AA3C /* Code sense */;
+		executables = (
+			FD1798DF0F4F08730037AA3C /* OpenPanel */,
+		);
+		perUserDictionary = {
+			PBXPerProjectTemplateStateSaveDate = 256837747;
+			PBXWorkspaceStateSaveDate = 256837747;
+		};
+		sourceControlManager = FD1798E50F4F08810037AA3C /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	8D1107260486CEB800E47090 /* OpenPanel */ = {
+		activeExec = 0;
+		executables = (
+			FD1798DF0F4F08730037AA3C /* OpenPanel */,
+		);
+	};
+	FD1798DF0F4F08730037AA3C /* OpenPanel */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 1;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = OpenPanel;
+		sourceDirectories = (
+		);
+	};
+	FD1798E50F4F08810037AA3C /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+		};
+	};
+	FD1798E60F4F08810037AA3C /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+}
